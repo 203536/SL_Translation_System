@@ -8,3 +8,9 @@ data/raw/
 venv/
 __pycache__/
 .vscode/
+*.mov
+
+# 기타
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

@@ -7,7 +7,7 @@
 | 작성일 | 2026-10-30 |
 | 개발 기간 | 2026-10-30 ~ 2026-12-14 (약 6주) |
 | 문서 버전 | v0.1 |
-| 저장소 | https://github.com/[owner]/[repo] |
+| 저장소 | https://github.com/203536/SL_Translation_System |
 
 ### 변경 이력
 

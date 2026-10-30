@@ -1,0 +1,15 @@
+# 공통
+opencv-python
+mediapipe
+numpy
+
+# 모델 학습 (PC / Colab)
+tensorflow
+scikit-learn
+
+# 직원 화면·통신
+flask
+flask-socketio
+
+# 라즈베리파이에서는 tensorflow 대신 tflite-runtime 사용 검토
+# 버전은 1주차 환경 세팅 후 고정 예정
