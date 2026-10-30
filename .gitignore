@@ -1,1 +1,10 @@
+# 원본 영상·대용량 데이터
+data/raw/
+*.mp4
+*.avi
 
+# 환경 설정·비밀 정보
+.env
+venv/
+__pycache__/
+.vscode/
